@@ -25,5 +25,8 @@
             "Mia\\Core\\": "src/"
         }
     },
-    "repositories": []
+    "repositories": [],
+    "require-dev": {
+        "rector/rector": "^1.2"
+    }
 }

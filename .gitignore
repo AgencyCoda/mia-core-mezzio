@@ -24,3 +24,4 @@ data/DoctrineORMModule/cache/
 demos/
 extras/documentation
 .DS_Store
+.idea
