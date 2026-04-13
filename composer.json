@@ -13,7 +13,7 @@
         "psr/container": "^1.0",
         "psr/http-message": "^1.0.1",
         "psr/http-server-middleware": "^1.0",
-        "laminas/laminas-diactoros": "^2.5",
+        "laminas/laminas-diactoros": "^3.0",
         "google/cloud-error-reporting": "^0.20.1",
         "google/cloud-logging": "^1.27",
         "google/cloud-storage": "^1.32",
